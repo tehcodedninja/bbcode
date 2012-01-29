@@ -1,61 +1,60 @@
-[b]This is bold text[/b]
+[b]Bold[/b]
 
-[i]This is italic text[/i]
+[i]Italics[/i]
 
-[code]This is pre-formatted text[/code]
+[u]Underline[/u]
 
-[quote]This is a quote[/quote]
+[strike]Strikethrough[/strike]
 
-[quote="Obama"]This is a quote by a specific person[/quote]
+[b][i][u][strike]All effects[/strike][/u][/i][/b]
 
-[size=30]This text's size is set at 30%[/size]
+[code]Some code here[/code]
 
-[s]This text has a strikethrough[/s]
+[quote]A wise quote.[/quote]
 
-[u]This text is underlined.[/u]
+[quote=Rawr]A wise quote by Rawr[/quote]
 
-[center]This text is centered[/center]
+[quote=Someone]A quote by someone, quoting someone else:
+[quote=Someone else]O hai peoples[/quote]
+Yeah, right.[/quote]
 
-[color=red]This is red text[/color]
+[align=right]Right-aligned.[/align]
 
-[email]someone@somewhere.com[/email]
+[color=yellow]Code yellow[align=center](Bioshock[/align] reference)[/color]
 
-[email=someone@somewhere.com]An e-mail link[/email]
+[list=a][*]It's a list.
 
-[url]http://www.google.com/[/url]
+[*][list=1][*]It's an indented list.
 
-[url=http://www.google.com/]Google.com yo![/url]
+[*][list][*]It's a double-indented list.
 
-[img]http://i.imgur.com/WqYEO.jpg[/img]
+[*][b][list][*]It's a bold triple-indented list aligned right!
 
-An image as a link:
+[*]And another item with some [u]underlined[/u] text...[/list][/b]
 
-[url=http://en.wikipedia.org/wiki/Ninja][img]http://i.imgur.com/8d7Yu.jpg[/img][/url]
+[*]Bla bla bla[/list]
 
-This is an unordered list: 
+[*][align=center][list][*]Oshit it's another list
 
-[list]
-[*]list item #1
-[*]list item #2
-[*][b]bold list item #3[/b]
-[/list]
+[*]Oh noes[/list][/align]
 
-This is an ordered (numbered) list: 
+[*]Rawr lawl[/list]
 
-[list=1]
-[*]list item #1
-[*]list item #2
-[*][b]bold list item #3[/b]
-[/list]
+[*]Last item![/list]
 
-This is an ordered (alpha) list: 
+[size=36]BIG TEXT[/size]
 
-[list=a]
-[*]list item #1
-[*]list item #2
-[*][b]bold list item #3[/b]
-[/list]
+[img]http://gaiarch.gaiatools.com/emotes/001WTh.gif[/img] An image...
 
-[youtube]http://youtu.be/DabwEqsWWiA&hd=1[/youtube]
+And floating left-right images here.
+[imgleft]http://gaiarch.gaiatools.com/emotes/001WTh.gif[/imgleft]Left
 
-[youtube]http://www.youtube.com/watch?v=DabwEqsWWiA[/youtube]
+[imgright]http://gaiarch.gaiatools.com/emotes/001WTh.gif[/imgright]Right
+
+A link: [url=http://google.com/]Google[/url]
+
+An imgmap: [url=http://shout.gaiatools.com/8934][imgmap]http://shout.gaiatools.com/s8934[/imgmap][/url]
+
+Whee
+
+I R PANTS
